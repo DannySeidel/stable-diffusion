@@ -1,0 +1,14 @@
+[
+    {
+        "uuid": "4cb5b513bd3d4483bdb730fa20526ab1",
+        "args": {
+            "prompt": "low resolution, 2d game tile, grass, 16x16, pixel art",
+            "n_images": 1,
+            "steps": 20,
+            "cfg": 7.5,
+            "negative_prompt": "high resolution, photo-realistic image",
+            "n_rows": 1,
+            "decoding_batch_size": 1
+        }
+    }
+]
